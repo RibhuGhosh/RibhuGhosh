@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Ribhu 👋
 
-<!--
-**RibhuGhosh/RibhuGhosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about software development, AI, and problem-solving.  
+Turning ideas into code. 
 
-Here are some ideas to get you started:
+###  Currently working on
+- Learning Java & DSA
+- Building projects
+- Exploring AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tools I use
+`Java` `C` `Python` `Git` `GitHub` `VS Code` `IntelliJ IDEA `
+
+### 🤝 Let's connect
+- LinkedIn: [www.linkedin.com/in/ribhu-ghosh-53a33a39a]
+- Email: ghoshribhu007.com
+
+---
+
+> Learn. Build. Break. Fix. Repeat. 💻
