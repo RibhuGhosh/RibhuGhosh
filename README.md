@@ -13,7 +13,7 @@ Turning ideas into code.
 
 ### 🤝 Let's connect
 - LinkedIn: [www.linkedin.com/in/ribhu-ghosh-53a33a39a]
-- Email: ghoshribhu007.com
+- Email: ghoshribhu007.@gmail.com
 
 ---
 
